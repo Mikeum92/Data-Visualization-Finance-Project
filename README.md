@@ -9,6 +9,6 @@ The following python libaries are used for visualization:
       - matplotlib
       - plotly
       - cufflinks
- 
+Cufflinks iplots missing in jupyter notebook inline are saved in repository.  
       
       
